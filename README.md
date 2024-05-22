@@ -14,10 +14,11 @@ step -2 git add .
 step -3 git commit
 step -4 git remote
 ```
-´´´sh
+```sh
 git init
 git add .
 git commit
 git remote
-´´´
+```
+
 
