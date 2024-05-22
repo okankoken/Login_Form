@@ -1,4 +1,4 @@
-# Miuul Register[D[D[D[D[D[D[C[C[[C[C[C[C[C[C[C[C[# Register - Form
+# Miuul Register # Register - Form
 ---
 
 ## Register Form
