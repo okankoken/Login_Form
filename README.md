@@ -1,4 +1,4 @@
-# Miuul Register # Register - Form
+# Register - Form
 ---
 
 ## Register Form
